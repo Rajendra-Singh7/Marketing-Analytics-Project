@@ -21,10 +21,9 @@ To deliver actionable insights from fragmented marketing campaign and customer r
 ---
 
 ## 🛠️ Tools & Technologies
-
 - **Python** – For data cleaning, sentiment analysis (VADER)  
-- **SQL Server** – For extracting and querying marketing and customer review data  
-- **Power BI** – For interactive dashboards and visualization  
+- **SQL Server** – For storing structured data and writing SQL queries  
+- **Power BI** – For building interactive dashboards and connecting directly to SQL Server for real-time data querying 
 - **NLTK (VADER)** – For Natural Language Processing on customer reviews
 
 👉 *Detailed SQL and Python scripts are provided in the [notebooks/](notebooks/) and [scripts/](scripts/) folders.*
