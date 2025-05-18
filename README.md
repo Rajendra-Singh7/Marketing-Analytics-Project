@@ -85,7 +85,4 @@ I'm **Rajendra Singh Shah**, a Computer Science graduate passionate about market
 - ✔️ SQL scripts for data extraction
 - ✔️ Cleaned and enriched datasets
 
----
 
-Would you also like a slightly lighter version too, in case you need it for GitHub or portfolio? 🚀  
-I can give you that quickly if you want!
