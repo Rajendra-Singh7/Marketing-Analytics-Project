@@ -29,6 +29,25 @@ To deliver actionable insights from fragmented marketing campaign and customer r
 👉 *Detailed SQL and Python scripts are provided in the [notebooks/](notebooks/) and [scripts/](scripts/) folders.*
 
 ---
+## 📊 Dashboard Snapshots
+<p align="center">
+  <img src="./dashboard ss/overview dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 1: Overview Dashboard</i>
+</p>
+<p align="center">
+  <img src="./dashboard ss/conversion details dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 2: Conversion Details Dashboard</i>
+</p>
+<p align="center">
+  <img src="./dashboard ss/social media details dashboard.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 3: Social Media Details Dashboard</i>
+</p>
+<p align="center">
+  <img src="./dashboard ss/customer review details dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 4: Customer Review Details Dashboard</i>
+</p>
+
+---
 
 ## 🔍 Key Insights
 
